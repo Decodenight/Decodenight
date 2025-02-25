@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Frontend site**
+ 🔭 I’m currently working on **Frontend site.**
  
- 🌱 I’m currently learning **Three Js & React three Fiber**
+ 🌱 I’m currently learning **Three Js & React three Fiber.**
 
  📫 My Portfolio **[Kallol's-Portfolio.dev](https://my-portfolio-taupe-six-27.vercel.app/)**
 
