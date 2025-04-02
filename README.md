@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Frontend site.**
  
- 🌱 I’m currently learning **Three Js & React three Fiber.**
+ 🌱 I’m currently learning **Motion & Typescript.**
 
  📫 My Portfolio **[Kallol's-Portfolio.dev](https://my-portfolio-taupe-six-27.vercel.app/)**
 
