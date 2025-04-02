@@ -33,8 +33,8 @@
 <h2 align="center"> Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,git,codepen,vite" />
-    <img src="https://skillicons.dev/icons?i=github,redux,nodejs,javascript,vscode,github,figma,bash,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,git,codepen,vite," />
+    <img src="https://skillicons.dev/icons?i=github,redux,nodejs,javascript,vscode,github,vercel" />
 </div>
 <hr/>
 
